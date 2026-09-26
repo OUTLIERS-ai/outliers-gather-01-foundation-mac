@@ -1,0 +1,78 @@
+{
+  "main": "outliers-gather-01-foundation",
+  "main_commit": "d8d2331baacb15f6854029f842488dea9a85ff71",
+  "mac": "outliers-gather-01-foundation-mac",
+  "macgen_commit": "d826836+uncommitted",
+  "date": "2026-09-26",
+  "fingerprint": "10aa0f43340d21d9b30990a9e1308224b7dc50d8486f9a940860b16241afc929",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "category": "same",
+      "sha256": "e664118722da6bf945bd9d4cf36a4e6a534e5abaeefc47f170b4ff1adda3134d"
+    },
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "19ad5a40ca5026633b3861d5d5690bb8cb5932bc256674ff5008384ad9ad6135"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "b3e1546210b307d6408bc04d98448de6b707888d167e199f1050aa414098731d"
+    },
+    {
+      "path": "WHAT-I-STOLE.md",
+      "category": "same",
+      "sha256": "58b7efee74c3311809acbaaef311b7c1a048bdd8eaaf4d466422d7e7ac537319"
+    },
+    {
+      "path": "engine/crm_paths.py",
+      "category": "same",
+      "sha256": "ab10c6f724efc213d756862c20e42f31a0f96d17e6f54122cea95c075d1b54ab"
+    },
+    {
+      "path": "engine/gather.py",
+      "category": "same",
+      "sha256": "eb30ca0cae66105e8d22d8d992d31320f0d9aa30292bb58839c3db59846ac8d7"
+    },
+    {
+      "path": "engine/gather_browser.py",
+      "category": "same",
+      "sha256": "96a6350b144fe5fb680437bb7296ebc6d4646d890d36f2b9d85320e04495450d"
+    },
+    {
+      "path": "engine/gather_limits.py",
+      "category": "same",
+      "sha256": "78abf8cc3a661668aa9512444ec658b03c4ff01cac17363422aaa54fcb309f72"
+    },
+    {
+      "path": "engine/gather_settings.py",
+      "category": "same",
+      "sha256": "159d9c5e759f00544065bb6010c4f15d80a600ed89e86e95b6e3474a6c45244c"
+    },
+    {
+      "path": "engine/gather_walk.py",
+      "category": "same",
+      "sha256": "3dd4f874d69e9ea25009b27ab83164c656a985c0a07c3968033385a0bcdca81e"
+    },
+    {
+      "path": "engine/safe_write.py",
+      "category": "same",
+      "sha256": "34708344aa0a1d531c356306b33f76b33670413fd96f045dfcc21271deebc026"
+    },
+    {
+      "path": "install.py",
+      "category": "same",
+      "sha256": "4903a751dc8d6eba4032344fc343540c546434f47e7d7a1b1109cb81f1faef0f"
+    },
+    {
+      "path": "tests/test_doorman.py",
+      "category": "same",
+      "sha256": "3403f299c721ffed3935e0fdebcd95fada7e39b22809dc7a73b0c4a01344bf58"
+    }
+  ]
+}
